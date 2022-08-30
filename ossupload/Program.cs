@@ -142,7 +142,7 @@ namespace Aliyun.OSS.Samples
             if (args.Length != 5)
             {
                 Console.WriteLine("Author:Jumbo");
-                Console.WriteLine("Usage: AliOSS.exe accessKeyId accessKeySecret bucketName endpoint fileToUpload");
+                Console.WriteLine("Usage: ossupload.exe accessKeyId accessKeySecret bucketName endpoint fileToUpload");
             }
             else
             {
