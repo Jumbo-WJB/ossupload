@@ -1,0 +1,4 @@
+C:\Users\jumbo\source\repos\ossupload\ossupload\obj\Release\ossupload.csprojAssemblyReference.cache
+C:\Users\jumbo\source\repos\ossupload\ossupload\obj\Release\ossupload.csproj.CoreCompileInputs.cache
+C:\Users\jumbo\source\repos\ossupload\ossupload\obj\Release\ossupload.exe
+C:\Users\jumbo\source\repos\ossupload\ossupload\obj\Release\ossupload.pdb
